@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君みたいになりたい",
+  "base_artist": "モ葛",
+  "createdAt": "2026-01-12T21:17:29.902337Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君みたいになりたい",
+      "artist": "モ葛",
+      "has_synced": false,
+      "path": "select/pl_01_君みたいになりたい_モ葛.txt"
+    }
+  ]
+}
